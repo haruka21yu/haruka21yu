@@ -13,7 +13,7 @@
 
 ---
 
-# 💪 Skills | スキル
+# 💪 Skills | プログラミング関連のスキル
 
 ### 🖥️ Devices | デバイス
 [![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev)
