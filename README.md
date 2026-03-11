@@ -10,7 +10,6 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/haruka21yu)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/haruka21yu/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:haruka.21.yu@gmail.com)
 
 ---
 
