@@ -16,7 +16,7 @@
 # 💪 Skills | プログラミング関連のスキル
 
 ### 🖥️ Devices | デバイス
-[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev)
+[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev)Android
 
 ### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
@@ -28,7 +28,7 @@
 [![Regular](https://skillicons.dev/icons?i=js,nodejs,discordjs)](https://skillicons.dev)
 
 ### 💻 Languages — Have Used | 使ったことがある言語
-[![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev)
+[![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev)Assembly GAS
 
 ---
 
