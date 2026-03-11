@@ -1,12 +1,12 @@
-# Hi, I'm haruka21yu 👋
+# Hi, I'm haruka21yu | 初めまして。haruka21yuです！ 👋
 
-- 🎓 Student
-- 🌊 Hobbies: Web development, programming, fishing
-- 🌐 Website: [haruka21yuの物置小屋](https://haruka21yu.github.io/)
+- 🎓 Student | 学生
+- 🌊 Web development, programming, fishing | Web開発・プログラミング・釣り
+- 🌐 [haruka21yuの物置小屋](https://haruka21yu.github.io/)
 
 ---
 
-# 📬 Contact
+# 📬 Contact | 連絡
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/haruka21yu)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/haruka21yu/)
@@ -14,26 +14,26 @@
 
 ---
 
-# 💪 Skills
+# 💪 Skills | スキル
 
-### 🖥️ Devices
+### 🖥️ Devices | デバイス
 [![Devices](https://skillicons.dev/icons?i=raspberrypi,linux,windows)](https://skillicons.dev)
 
-### 🛠️ Tools & Services
+### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,cloudflare,replit,blender)](https://skillicons.dev)
 
-### 💻 Languages — Daily Use
+### 💻 Languages — Daily Use | よく使う言語
 [![Daily](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
-### 💻 Languages — Regular Use
+### 💻 Languages — Regular Use | 使う言語
 [![Regular](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
 
-### 💻 Languages — Have Used
+### 💻 Languages — Have Used | 使ったことがある言語
 [![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev)
 
 ---
 
-# 📊 Stats
+# 📊 Stats | 統計
 
 ![haruka21yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruka21yu&show_icons=true&theme=tokyonight&rank_icon=github)
 
@@ -41,6 +41,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haruka21yu&theme=tokyonight)](https://git.io/streak-stats)
 
-<!---
-haruka21yu/haruka21yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
