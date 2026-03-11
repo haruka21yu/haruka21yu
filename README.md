@@ -16,7 +16,7 @@
 # 💪 Skills | スキル
 
 ### 🖥️ Devices | デバイス
-[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi,linux)](https://skillicons.dev)
+[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev)
 
 ### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
