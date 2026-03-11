@@ -28,7 +28,7 @@
 [![Regular](https://skillicons.dev/icons?i=js,nodejs,discordjs)](https://skillicons.dev)
 
 ### 💻 Languages — Have Used | 使ったことがある言語
-[![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev)Assembly GAS
+[![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev) Assembly GAS
 
 ---
 
