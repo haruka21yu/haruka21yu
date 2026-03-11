@@ -16,10 +16,10 @@
 # 💪 Skills | スキル
 
 ### 🖥️ Devices | デバイス
-[![Devices](https://skillicons.dev/icons?i=raspberrypi,linux,windows)](https://skillicons.dev)
+[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi,linux)](https://skillicons.dev)
 
 ### 🛠️ Tools & Services | ツール
-[![Tools](https://skillicons.dev/icons?i=github,cloudflare,replit,blender)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
 
 ### 💻 Languages — Daily Use | よく使う言語
 [![Daily](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
