@@ -16,7 +16,7 @@
 # 💪 Skills | プログラミング関連のスキル
 
 ### 🖥️ Devices | デバイス
-[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev)Android
+[![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev) Android
 
 ### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
