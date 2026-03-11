@@ -13,13 +13,15 @@
 
 ---
 
-# 💪 Skills | プログラミング関連のスキル
+# 🛠️ Tools | 使っている物
 
 ### 🖥️ Devices | デバイス
 [![Devices](https://skillicons.dev/icons?i=windows,raspberrypi)](https://skillicons.dev) Android
 
 ### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
+
+# 💪 Skills | プログラミング関連
 
 ### 💻 Languages — Daily Use | よく使う言語
 [![Daily](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
