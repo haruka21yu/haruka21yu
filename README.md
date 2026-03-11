@@ -21,6 +21,8 @@
 ### 🛠️ Tools & Services | ツール
 [![Tools](https://skillicons.dev/icons?i=github,blender,replit,cloudflare)](https://skillicons.dev)
 
+---
+
 # 💪 Skills | プログラミング関連
 
 ### 💻 Languages — Daily Use | よく使う言語
