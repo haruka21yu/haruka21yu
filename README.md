@@ -25,7 +25,7 @@
 [![Daily](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
 ### 💻 Languages — Regular Use | 使う言語
-[![Regular](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
+[![Regular](https://skillicons.dev/icons?i=js,nodejs,discordjs)](https://skillicons.dev)
 
 ### 💻 Languages — Have Used | 使ったことがある言語
 [![Used](https://skillicons.dev/icons?i=bash,c,cpp,go,java,kotlin,lua,md,php,ruby,rust,swift,ts)](https://skillicons.dev)
